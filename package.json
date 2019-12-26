@@ -2,7 +2,7 @@
   "name": "array-sort",
   "version": "1.0.0",
   "description": "array-sort",
-  "main": "test.js",
+  "main": "index.js",
   "scripts": {
     "start": "node-gyp configure build && node --no-warnings test.js"
   },
