@@ -1,3 +1,3 @@
 # N-API quicksort module
 
-Нашёл реализацию этого алгоритма на cpp в интернете. Как только напишу такой на js, перепишу его на свой
+Found an implementation of this cpp algorithm on the Internet for an experiment. As soon as I write this on js, I will rewrite it on my own
