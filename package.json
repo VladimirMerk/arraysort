@@ -12,7 +12,7 @@
   "author": "VMerk",
   "license": "ISC",
   "dependencies": {
-    "jimp": "^0.3.8",
+    "jimp": "^0.22.7",
     "node-addon-api": "^1.4.0"
   }
 }
